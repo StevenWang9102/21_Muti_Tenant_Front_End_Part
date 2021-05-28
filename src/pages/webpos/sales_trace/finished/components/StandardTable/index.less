@@ -1,0 +1,25 @@
+@import '~antd/es/style/themes/default.less';
+
+.standardTable {
+  :global {
+    .ant-table-pagination {
+      margin-top: 24px;
+    }
+    .ant-table-tbody > tr.ant-table-expanded-row,
+    tr.ant-table-expanded-row:hover {
+      background: rgba(255, 255, 255, 0.85);
+    }
+    .ant-descriptions .ant-descriptions-view > table {
+      border-collapse: collapse;
+    }
+  }
+
+  .tableAlert {
+    margin-bottom: 16px;
+  }
+
+  .expandedTotal {
+    font-weight: 600;
+    font-size: 15px;
+  }
+}

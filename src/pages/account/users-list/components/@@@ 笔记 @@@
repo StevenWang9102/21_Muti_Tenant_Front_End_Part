@@ -1,0 +1,8 @@
+最终发送的是 selectedRoleIds
+由于他生成的 postData
+控制他的是 setSelectedRoleIds
+
+
+
+currentSelectedRoles
+setCurrentSelectedRoles

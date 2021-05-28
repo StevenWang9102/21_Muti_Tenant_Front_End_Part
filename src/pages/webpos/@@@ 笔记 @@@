@@ -1,0 +1,18 @@
+handleResumeOrder
+
+history.push('/webpos/pos');
+
+
+dispatch({
+type: 'currentPOSData/isResumeOrder',
+payload: true
+});
+
+
+type: 'currentPOSData/fetchOneOrder', --------------------- fetchOneOrderSuccess
+type: 'currentPOSData/fetchOneInvoice',
+
+
+显示在 OrderDetails
+
+谁把 currentOrderItems 清理掉了？？？

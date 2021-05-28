@@ -1,0 +1,16 @@
+export default {
+  'branch.management.shortname': '簡稱',
+  'branch.management.legalname': '官方名稱',
+  'branch.management.tradingname': '商業名稱',
+  'branch.management.role': '類型',
+  'branch.management.action': "操作",
+  'branch.management.edit': "編輯",
+  'branch.management.search':'搜索',
+  'branch.management.reset': '重置',
+  'branch.management.select': "您已經選擇了：",
+  'branch.management.user': "位用戶",
+  'branch.management.clearall': "清除",
+  'branch.management.active': '活躍',
+  'branch.management.switchall': '轉換全部',
+  'branch.management.createnewbranch': "創建新分支",
+};

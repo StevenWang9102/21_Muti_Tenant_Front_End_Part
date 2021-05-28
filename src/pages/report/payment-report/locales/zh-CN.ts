@@ -1,0 +1,18 @@
+export default {
+  'user.management.shortname': '简称',
+  'user.management.legalname': '官方名称',
+  'user.management.tradingname': '商业名称',
+  'user.management.role': '角色',
+  'user.management.action': "操作",
+  'user.management.edit': "编辑",
+  'user.management.create': '创建新用户',
+  'user.management.reset': '重置',
+  'user.management.switchall': '转换全部',
+  'user.management.search':'请搜索',
+  'user.management.clearall': '全部重置',
+  'user.management.select': "您已经选择了: ",
+  'user.management.user': "位用户",
+  'user.management.newusername': "用户名",
+  'user.management.selectbranch': "选择分支和角色",
+  'user.management.contact': '联系信息',
+};

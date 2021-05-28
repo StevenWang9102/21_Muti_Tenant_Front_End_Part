@@ -1,0 +1,17 @@
+export default {
+  'branch.management.shortname': 'Branch Name',
+  'branch.management.legalname': 'Legal Name',
+  'branch.management.tradingname': 'Trading Name',
+  'branch.management.role': 'Type',
+  'branch.management.action': "Action",
+  'branch.management.edit': "Edit",
+  'branch.management.search':'Search Here',
+  'branch.management.reset': 'Reset',
+  'branch.management.select': "You have select",
+  'branch.management.user': "branches",
+  'branch.management.clearall': "Clear All",
+  'branch.management.active': 'Active',
+  'branch.management.switchallOff': 'Deactivate',
+  'branch.management.switchallOn': 'Activate',
+  'branch.management.createnewbranch': "Create New Branch",
+};

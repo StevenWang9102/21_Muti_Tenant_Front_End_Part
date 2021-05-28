@@ -1,0 +1,4 @@
+onGetCaptcha 的时候
+触发 type: 'userAndregister/getCaptcha',
+reducer: getCaptchaSuccess
+notification: Request Error

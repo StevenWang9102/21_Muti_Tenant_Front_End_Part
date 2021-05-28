@@ -1,0 +1,16 @@
+
+
+
+
+const STAFF_DISPLAY_NAME = 'STAFF_DISPLAY_NAME'
+const staffName = localStorage.getItem(STAFF_DISPLAY_NAME) || 'staff'
+
+.toLowerCase()
+.replace(/^\S/, s => s.toUpperCase())
+
+
+
+
+======================== All ALL_BEAUTICIAN =========================
+const staffName = localStorage.getItem(STAFF_DISPLAY_NAME) || 'Beautician'
+const ALL_BEAUTICIAN = `All ${staffName}`

@@ -1,0 +1,24 @@
+@import '~antd/es/style/themes/default.less';
+
+.categoriesEditForm {
+  //height: 600px;
+  overflow: auto;
+  border-left: 1px #d9d9d9 solid;
+}
+.container {
+  :global {
+    .ant-btn {
+      margin-right: 8px;
+      margin-bottom: 12px;
+    }
+    .ant-btn-group > .ant-btn {
+      margin-right: 0;
+    }
+  }
+}
+
+@media only screen and (max-width: @screen-md) {
+  .categoriesEditForm {
+    border-left: none;
+  }
+}
