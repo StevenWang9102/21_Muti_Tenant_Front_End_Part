@@ -1,51 +1,10 @@
-# Menuhub
+# Menuhub - a multi-tenant system
+-	Developed the user interfaces for branches, customers, staff, staff roles, items and other base entities
+-	Developed payment and billing management components that enabled online payment processing
+-	Implemented login and authentication in the front end with React on JSON web tokens
+-	Interfaced with EFTPOS and receipt printers on Payment Express
 
-## Environment Prepare
+Because of the copyright issues, I just upload some piece of code.
+Here is a shot video to have a look at the project, https://www.youtube.com/watch?v=Aq7fWlg4VXU
 
-Install `node_modules`:
 
-```bash
-npm install
-```
-
-or
-
-```bash
-yarn
-```
-
-## Provided Scripts
-
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start project
-
-```bash
-npm start
-```
-
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
